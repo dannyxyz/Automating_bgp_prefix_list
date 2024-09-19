@@ -7,16 +7,21 @@ Prerequisites
 Python 3.x
 Flask
 bgpq4 tool
+
 Installation
 Clone the repository:
 Copy
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
+git clone the repository
+
+cd into the repository
+
 Install dependencies:
 pip install Flask
+
 Install bgpq4 tool:
 For Ubuntu/Debian:
 sudo apt-get install bgpq4
+
 For CentOS/RHEL:
 sudo yum install bgpq4
 Usage
